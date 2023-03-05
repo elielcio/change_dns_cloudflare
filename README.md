@@ -12,10 +12,10 @@ Para utilizar este script, você precisará ter:
 
 Você pode instalar as extensões digitando os seguintes comandos no terminal:
 
-# Debian e Ubuntu
+### Debian e Ubuntu
 sudo apt install jq dnsutils
 
-# CentOS e Red Hat Enterprise Linux
+### CentOS e Red Hat Enterprise Linux
 sudo yum install jq bind-utils
 
 ## Configuração
